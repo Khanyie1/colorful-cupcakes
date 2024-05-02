@@ -34,17 +34,21 @@ body {
 }
 
 .cupcake1 {
-    background-color: #ff006e;
+    /*background-color: #ff006e;*/
+    background-color: hsl(192, 97%, 50%);
 }
 
 .cupcake2 {
-    background-color: #fb5607;
+    /*background-color: #fb5607;*/
+    background-color: darksalmon;
 }
 
 .cupcake3 {
-    background-color: #8338ec;
+    /*background-color: #8338ec;*/
+    background-color: #14453D;
 }
 
 .blue {
-    background-color: #3a86ff;
+    /*background-color: #3a86ff;*/
+    background-color: #A9FF47;
 }
