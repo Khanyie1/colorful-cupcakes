@@ -8,9 +8,10 @@ body {
     display: flex;
 }
 
+/*
 .flex1 {
-    /* flex : 1 */
-}
+     flex : 1
+}*/
 
 .flex2 {
     flex : 2;
